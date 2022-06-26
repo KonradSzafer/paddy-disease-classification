@@ -1,0 +1,8 @@
+# data
+kaggle/
+
+# submissions
+submissions/
+
+# model tracking
+wandb/
